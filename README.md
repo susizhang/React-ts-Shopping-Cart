@@ -13,5 +13,5 @@ Shopping cart
 
 ## Thanks
 
-This project is a project based on YouTube tutorial from Web dev Simplified:
+This project is a project based on YouTube tutorial from Web Dev Simplified:
 https://www.youtube.com/watch?v=lATafp15HWA&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g&index=3&ab_channel=WebDevSimplified

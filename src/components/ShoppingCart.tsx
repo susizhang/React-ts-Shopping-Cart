@@ -7,6 +7,7 @@ import storeItems from "../data/items.json";
 type ShoppingCartProps = {
   isOpen: boolean;
 };
+
 export function ShoppingCart({ isOpen }: ShoppingCartProps) {
   const { closeCart, cartItems } = useShoppingCart();
   return (

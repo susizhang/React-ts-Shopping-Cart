@@ -84,6 +84,7 @@ export function ShoppingCartProvider({ children }: ShoppingCartProviderProps) {
       return currItems.filter((item) => item.id !== id);
     });
   }
+  //   console.log("ShoppingCartContext ", getItemQuantity);
 
   return (
     <ShoppingCartContext.Provider

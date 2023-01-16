@@ -19,10 +19,10 @@ export const Navbar = () => {
           </Nav.Link>
         </Nav>
         <Button
+          onClick={openCart}
           style={{ width: "3rem", height: "3rem", position: "relative" }}
           variant="outline-primary"
           className="rounded-circle"
-          onClick={openCart}
         >
           <BsFillCartFill />
           <div

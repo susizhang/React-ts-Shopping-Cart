@@ -2,7 +2,7 @@
 
 This project is a fully functional shopping cart using React, TypeScript, and Bootstrap
 
-## Tech used
+## Libary used
 
 - [Vite](https://vitejs.dev/)
   <br/>

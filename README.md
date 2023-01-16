@@ -1,4 +1,4 @@
-# React-ts-Shopping-Cart
+# React-typescript-Shopping-Cart
 
 This project is a fully functional shopping cart using React, TypeScript, and Bootstrap
 

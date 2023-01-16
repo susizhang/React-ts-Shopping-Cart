@@ -4,11 +4,9 @@ This project is a fully functional shopping cart using React, TypeScript, and Bo
 
 ## Tech used
 
-[Vite](https://vitejs.dev/)
-[React](https://reactjs.org/)
-[Typescript](https://www.typescriptlang.org/)
-[React-Bootstrap] (https://react-bootstrap.github.io/)
-[Bootstrap] (https://getbootstrap.com/)
+1.[Vite](https://vitejs.dev/) 2.[React](https://reactjs.org/) 3.[Typescript](https://www.typescriptlang.org/)
+4.React-Bootstrap
+5.Bootstrap
 
 ## How it looks
 
@@ -19,5 +17,6 @@ Shopping cart
 
 ## Thanks
 
-[This project is a project based on YouTube tutorial from Web Dev Simplified:]
-(https://www.youtube.com/watch?v=lATafp15HWA&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g&index=3&ab_channel=WebDevSimplified)
+This project is a project based on YouTube tutorial from Web Dev Simplified:
+<br/>
+https://www.youtube.com/watch?v=lATafp15HWA&list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g&index=3&ab_channel=WebDevSimplified

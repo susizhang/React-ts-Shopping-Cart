@@ -7,7 +7,7 @@ This project is a fully functional shopping cart using React, TypeScript, and Bo
 ![image](https://github.com/susizhang/React-ts-Shopping-Cart/blob/main/src/assets/ts-shopping-cart1%20.png)
 
 
-shopping cart
+Shopping cart
 ![image](https://github.com/susizhang/React-ts-Shopping-Cart/blob/main/src/assets/ts-shopping-cart2%20.png)
 
 

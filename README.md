@@ -2,14 +2,20 @@
 
 This project is a fully functional shopping cart using React, TypeScript, and Bootstrap
 
+## Tech used
+
+https://vitejs.dev/
+https://reactjs.org/
+https://www.typescriptlang.org/
+React-Bootstrap https://react-bootstrap.github.io/
+Bootstrap https://getbootstrap.com/
 
 ## How it looks
-![image](https://github.com/susizhang/React-ts-Shopping-Cart/blob/main/src/assets/ts-shopping-cart1%20.png)
 
+![image](https://github.com/susizhang/React-ts-Shopping-Cart/blob/main/src/assets/ts-shopping-cart1%20.png)
 
 Shopping cart
 ![image](https://github.com/susizhang/React-ts-Shopping-Cart/blob/main/src/assets/ts-shopping-cart2%20.png)
-
 
 ## Thanks
 
